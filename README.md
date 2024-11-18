@@ -10,18 +10,10 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
 ▪ Test Monitoring and Control
 
 Course Goals: 
-
 ▪ Knowledge of the software development process
-
 ▪ Knowledge of the QA process 
-
 ▪ Skills in functional and non-functional testing
-
 ▪ Ability to start work as an intern or junior QA engineer
-
- 
-
-
 
  Theoretical Exam in English
  Practical exam testing the following skills: 
