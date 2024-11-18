@@ -7,3 +7,10 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
 ▪Web API and Postman  
 ▪Relational Databases  
 ▪Test Monitoring and Control
+
+**Practical exam testing the following skills: **
+ ▪Planning tests, finding bugs and reporting issues upon given project requirements (SRS)
+ ▪Write test cases that coverdescribed functionalities and manually execute the tests
+ ▪Document all the work in a bug report
+ ▪HTTP requests with Postman
+ 
