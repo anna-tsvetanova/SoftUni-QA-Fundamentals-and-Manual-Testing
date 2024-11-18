@@ -3,8 +3,11 @@
 Course Goals: 
 
 ▪ Knowledge of the software development process
+
 ▪ Knowledge of the QA process 
+
 ▪ Skills in functional and non-functional testing
+
 ▪ Ability to start work as an intern or junior QA engineer
 
  
