@@ -1,6 +1,7 @@
 # SoftUni-QA-Fundamentals-and-Manual-Testing 
 
 Course Goals: 
+
 ▪ Knowledge of the software development process
 ▪ Knowledge of the QA process 
 ▪ Skills in functional and non-functional testing
