@@ -9,23 +9,10 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
 ▪ Relational Databases  
 ▪ Test Monitoring and Control
 
-Course Goals: 
-
-▪ Knowledge of the software development process 
-
-▪ Knowledge of the QA process 
-
-▪ Skills in functional and non-functional testing 
-
-▪ Ability to start work as an intern or junior QA engineer
 
  Theoretical Exam (in English)
  
- Practical exam testing the following skills: 
- 
-▪ Planning tests, finding bugs and reporting issues upon given project requirements (SRS)
-▪ Write test cases that coverdescribed functionalities and manually execute the tests
-▪ HTTP requests with Postman
+ Practical exam testing the following skills: Planning tests, finding bugs and reporting issues upon given project requirements (SRS). Write test cases that coverdescribed functionalities and manually execute the tests. HTTP requests with Postman.
 
 
 
