@@ -8,6 +8,8 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
 ▪ Web API and Postman  
 ▪ Relational Databases  
 ▪ Test Monitoring and Control
+@@@@
+@@@@
 
 
 **Theoretical Exam (in English)**
