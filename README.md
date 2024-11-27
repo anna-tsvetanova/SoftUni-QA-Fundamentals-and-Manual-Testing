@@ -15,9 +15,9 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
  
  **Practical exam testing the following skills:**
  
- ▪ Planning tests, finding bugs and reporting issues upon given project requirements (SRS). 
-     ▪ Write test cases that cover described functionalities and manually execute the tests. 
-     ▪ HTTP requests with Postman.
+  Planning tests, finding bugs and reporting issues upon given project requirements (SRS). 
+     | Write test cases that cover described functionalities and manually execute the tests. 
+     | HTTP requests with Postman.
 
 
 
