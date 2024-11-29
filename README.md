@@ -10,10 +10,8 @@ The course covers various aspects of the Quality  Assurance at a fundamental lev
 ▪ Test Monitoring and Control
 
 
-
-**Theoretical Exam (in English)**
  
- **Practical exam testing the following skills:**
+ **Practical/theoretical exam testing the following skills:**
  
   Planning tests, finding bugs and reporting issues upon given project requirements (SRS). 
      | Write test cases that cover described functionalities and manually execute the tests. 
